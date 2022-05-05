@@ -1,0 +1,15 @@
+{
+    "name": "nocarefree/php-tree",
+    "autoload": {
+        "psr-4": {
+            "Ncf\\PTree\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nocarefree",
+            "email": "170890803@qq.com"
+        }
+    ],
+    "require": {}
+}
